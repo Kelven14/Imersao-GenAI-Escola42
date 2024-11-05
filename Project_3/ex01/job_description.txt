@@ -1,0 +1,73 @@
+Pessoa Engenheira de Software Sênior (Tech Lead) 
+Itaú Unibanco · São Paulo, Brasil (Híbrido)
+
+Sobre a vaga
+Vem ser Ituber & vem fazer Itaú_
+
+O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 60 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um quadro com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças. Não queremos você apenas por achar que tem a nossa cara. Queremos ter um pouco da sua também! 
+
+
+
+O que você precisa para ser um Ituber?
+Estamos buscando pessoas que queiram se desenvolver e aprender constantemente, compartilhando, colaborando, inovando e entregando valor para todos os nossos clientes. Aqui a gente não sabe tudo, a gente vai de turma_
+
+
+
+Como é o dia a dia do ituber nessa área?
+Junte-se à nossa equipe dinâmica como Analista de Engenharia de Software Sênior, desempenhando um papel crucial na evolução da tecnologia para a área de recuperação de crédito no segmento PJ. Se você é um profissional apaixonado por Java, Spring Boot e tecnologias em nuvem, esta é a oportunidade perfeita para você!
+
+
+
+Responsabilidades:
+- Desenvolver e manter aplicações robustas usando Java 11 ou superior e Spring Boot.
+- Colaborar na arquitetura e implementação de soluções escaláveis na AWS.
+- Integrar sistemas utilizando tecnologias como Redis e Kafka.
+- Trabalhar com bases de dados PostgreSQL para garantir alto desempenho e confiabilidade.
+
+
+
+O que oferecemos:
+- Ambiente colaborativo e inovador.
+- Oportunidade de liderar projetos desafiadores.
+- Plano de desenvolvimento profissional e treinamento contínuo.
+
+
+
+No que você precisa mandar bem?
+
+Experiência sólida com Java 11 ou superior e Spring Boot.
+Conhecimento prático em serviços AWS, proporcionando soluções inovadoras na nuvem.
+Experiência com tecnologias de mensageria, como Kafka, para garantir a eficiência na comunicação entre sistemas.
+Domínio em bancos de dados PostgreSQL para otimizar o armazenamento de dados.
+Conhecimento de visão de arquitetura de soluções e padrões de arquitetura
+
+
+Desejável:
+Conhecimentos de IaC (Infra as a Code) e Terraform
+Se você é apaixonado por tecnologia, proativo e busca impactar positivamente o setor de recuperação de crédito, envie seu currículo e junte-se a nos nesta jornada emocionante!
+tem menu de contexto
+
+Modelo de trabalho: Híbrido sem escala
+
+
+
+Ao se tornar um Ituber você tem_
+• Vale Transporte
+• Vale Refeição (Restaurantes) / Vale Alimentação (Supermercados)
+• Convênio médico e odontológico
+• Seguro de Vida
+• PLR – Participação nos Lucros e Resultados (Mediante resultados do banco)
+• Previdência privada
+• Descontos exclusivos em nossos produtos financeiros
+• Licença maternidade estendida & paternidade
+• Auxílio Creche / Babá (para papais e mamães)
+• Incentivo a estudos
+• GymPass ou TotalPass
+• Acesso aos Clubes Itaú (Guarapiranga / Itanhaém e São Sebastião)
+• + Algumas vantagens que você pode conhecer durante o processo
+
+
+*Estimulamos candidaturas de pessoas com deficiência em todas as nossas posições, sendo assim, sinta-se à vontade para se candidatar em vagas sinalizadas como exclusivas ou não para pessoas com deficiência. Somos comprometidos com a inclusão e valorizamos a diversidade.
+
+
+#VemProItaú #VemSerItuber

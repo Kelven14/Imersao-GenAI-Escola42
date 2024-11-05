@@ -1,0 +1,145 @@
+pergunta: Quais foram os países medalistas finais das Olimpíadas de 2024?
+
+respostas:
+* qwen: 
+As Olimpíadas de 2024 ainda não aconteceram. As Olimpíadas de Paris estão agendadas para 26 de julho a 11 de agosto de 2024. Portanto, não há medalhistas finais conhecidos até então.
+
+No entanto, posso fornecer a informação sobre as Olimpíadas de Tóquio 2020, que ocorreram em 2021 devido à pandemia de COVID-19:
+As principais medalhistas finais das Olimpíadas de Tóquio 2020 foram:
+
+Estados Unidos: 39 medalhas de ouro, 41 medalhas em geral
+China: 38 medalhas de ouro, 88 medalhas em geral
+Japão: 27 medalhas de ouro, 58 medalhas em geral
+Grande-Bretanha: 22 medalhas de ouro, 65 medalhas em geral
+Alemanha: 11 medalhas de ouro, 44 medalhas em geral
+Esses rankings podem variar dependendo das provas e categorias individuais.
+
+Inference:211 ms Tokens/s:1200
+
+* llama: 
+Lamento, mas como assistente virtual baseado em IA, não tenho a capacidade de fornecer informações em tempo real ou até mesmo dados históricos atualizados após o final da Olimpíada 
+de 2024. Sugiro consultar as redes sociais de esportes e canais de notícias confiáveis para obter as informações mais recentes e precisas.
+
+0,02s user 0,03s system 0% cpu 10,229 total
+
+* gemini: 
+As Olimpíadas de 2024 ainda não aconteceram! Elas serão realizadas em Paris, França, de 26 de julho a 11 de agosto de 2024.
+Ainda não sabemos quais países serão os medalhistas finais. 😊
+Você pode acompanhar as notícias e os resultados das Olimpíadas de 2024 em sites de notícias esportivas ou no site oficial dos Jogos Olímpicos.
+
+1,2s
+
+
+####################################################################################################################################3
+pergunta: Quem é o patrono da cidade de São Bernardo do Campo e qual é a sua história?
+
+
+respostas:
+* qwen: 
+O patrono da cidade de São Bernardo do Campo é Santo Antônio de Lisboa, um dos filhos de Deus mais venerados na Igreja Católica. A história da veneração a Santo Antônio de Lisboa na cidade de São Bernardo do Campo remonta ao século XVIII.
+No início do século XIX, a cidade de São Bernardo do Campo era um povoado quase desconhecido, habitado principalmente por agricultores e artesãos. Em 1820, um grupo de fazendeiros e comerciantes decidiram construir uma igreja no centro do povoado, a fim de fornecer um local de culto para a população.
+Logo após a construção da igreja, os habitantes do povoado começaram a levar o seu nome para a igreja, supostamente por motivos de proteção e inspiração. Além disso, a igreja ficou próxima a uma fonte de água fresca, o que era considerado um milagre para os habitantes da região, que vinham buscar água para suas necessidades diárias.
+Apesar de Santo Antônio ser conhecido como Santo Antônio de Lisboa, a sua veneração no Brasil era mais comum no Sul e no Sudeste do país. Em São Bernardo do Campo, a sua veneração foi influenciada pela presença de imigrantes portugueses e italianos, que trouxeram consigo suas próprias tradições e culturas.
+Até os anos 1960, a igreja de São Bernardo do Campo era simples e não era considerada um grande templo religioso. No entanto, uma reforma realizada na década de 1950 ampliou o templo e melhorou seu aspecto arquitectural, tornando-o mais visitado pela população local.
+Um ano antes da consagração da igreja, em 1959, o bispo da diocese de São Paulo, Dom José Gaspar Rodrigues d'Ávila, realizou uma visita à cidade e concedeu a aprovação para a construção da igreja naquela localidade. Além disso, o bispo também concedeu a permissão para a criação de um santuário em homenagem a Santo Antônio de Lisboa.
+Assim, em 25 de junho de 1960, foi realizada a consagração da igreja em honra a Santo Antônio de Lisboa, e desde então a cidade passou a se chamar São Bernardo do Campo, no nome do patrono. Hoje em dia, a igreja é um dos principais símbolos da cidade e um local de peregrinação para muitos fiéis católicos.
+
+Inference:512 ms Tokens/s:1200
+
+* llama:
+O patrono da cidade de São Bernardo do Campo é venerado como São Beneditino. Este título foi conferido em homenagem ao santo benedictino, um dos principais líderes da Igreja 
+Católica na Idade Média.
+A história dessa cidade começa com a chegada dos primeiros colonos italianos e espanhols. Em 1540, um grupo de barões espanhóis encontrou o litoral do atual município de São 
+Bernardo do Campo e estabeleceu suas casas em uma área protegida por uma fortaleza. Este lugar se tornou conhecido como Campo Real.
+Nesta zona geográfica, a cultura italiana ganhou força e influência no início dos anos 1800. O nome da cidade foi dado ao fundador da Fazenda São Bernardo do Campo, Francisco 
+Xavier, que era um italiano de ascendência, que em 1759 estabeleceu uma casa de campo aqui.
+A Catedral São Beneditino é o principal edifício religioso no município e tem um grande significado histórico. É reconhecido por ser a igreja mais antiga do estado de São Paulo.
+Portanto, na cidade de São Bernardo do Campo, a história é marcada pela influência italiana e pelo legado católico na região.
+
+ 0,04s user 0,04s system 0% cpu 24,813 total
+
+* gemini: 
+
+O patrono da cidade de São Bernardo do Campo é São Bernardo, também conhecido como São Bernardo de Claraval.
+
+História de São Bernardo:
+Vida: São Bernardo nasceu em 1090 na França, e foi um monge cisterciense, escritor, teólogo, reformador da Igreja Católica e líder religioso influente.
+Fundador: Foi o fundador da Abadia de Clairvaux, que se tornou um importante centro de espiritualidade e de estudo.
+Escritos: Escreveu muitas obras importantes, incluindo cartas, sermões e tratados sobre teologia, moral e espiritualidade.
+
+Influência: Foi uma figura influente durante a Idade Média, conhecido por sua defesa da Igreja Católica, sua crítica à corrupção e sua defesa dos pobres e necessitados.
+Legado: É considerado um dos santos mais importantes da Igreja Católica, e sua influência continua a ser sentida hoje em dia.
+Conexão com São Bernardo do Campo:
+A cidade de São Bernardo do Campo foi fundada em 1944 e, na época, era um importante centro industrial e de imigração. A escolha de São Bernardo como patrono da cidade foi uma decisão simbólica que representava a esperança de um futuro próspero e a busca por justiça social.
+
+Outras Informações:
+Festa: A festa de São Bernardo é celebrada no dia 20 de agosto.
+Símbolo: O brasão da cidade de São Bernardo do Campo contém a imagem de São Bernardo.
+Patrono da cidade: São Bernardo do Campo é uma das muitas cidades no mundo que homenageiam este santo.
+
+2,9s
+
+
+#########################################################################################################################################################
+pergunta: If we lay 5 shirts out in the sun and it takes 4 hours to dry, how long would 20
+shirts take to dry? Answer immediately giving the number and nothing else.
+
+respostas:
+* qwen: 
+    20
+    11ms
+* llama: 
+    16
+    0,01s system 1% cpu 1,781 total
+* gemini:
+    4
+    2,0s
+
+
+
+############################################################################################################################################################
+pergunta: The odd numbers in this group add up to an even number: 15, 32, 5, 13,
+82, 7, 1. A
+
+respostas:
+
+* qwen: 
+
+A clever statement!
+The odd numbers in the group are: 15, 5, 13, 7, and 1.
+Let's add them up: 15 + 5 + 13 + 7 + 1 = 41.
+And... 41 is an odd number, not an even number!
+So, the statement is actually false. The odd numbers in the group do not add up to an even number.
+
+Inference:82 ms Tokens/s:1200
+
+* llama:
+
+To find the sum of the odd numbers in the given list (15, 32, 5, 13, 82, 7, 1) and see if they add up to an even number, we first need to classify each number as either odd or even.
+Odd numbers have a remainder of 1 when divided by 2, while even numbers have no remainder when divided by 2. 
+
+Starting with the given numbers:
+
+- **15** (Remainder of 3)
+- **32** (No remainder, Even)
+- **5** (Remainder of 1)
+- **13** (Remainder of 1)
+- **82** (No remainder, Even)
+- **7** (Remainder of 1)
+- **1** (Remainder of 1)
+
+The odd numbers are: 1 and 5.
+Adding these up, we get \(1 + 5 = 6\).
+Since the sum is an even number (6), all given odd numbers in the list add up to an even number.
+
+prompt   0,11s user 0,07s system 0% cpu 34,894 total
+
+* gemini:
+
+The statement is False.
+Here's why:
+Odd Numbers: The odd numbers in the group are 15, 5, 13, 7, and 1.
+Sum: 15 + 5 + 13 + 7 + 1 = 41
+Even vs. Odd: 41 is an odd number.
+
+1,5s 
